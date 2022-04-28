@@ -2,6 +2,7 @@ h1{
     text-align: center;
 }
 
-.About-text{
-    color:Orange;
+.col{
+    background-color: pink;
+    color: white;
 }
